@@ -1,0 +1,21 @@
+{
+  "name": "backend-dev-challenge",
+  "version": "1.0.0",
+  "description": "The backend developer challenge from Ichi Studios",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "Ryo",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-json-schema": "^1.5.1",
+    "jsonstream": "^1.0.3",
+    "mocha": "^7.0.0",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
+}
